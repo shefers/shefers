@@ -7,7 +7,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Work](/work)
+[DS Projects](/DS Projetcs)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
